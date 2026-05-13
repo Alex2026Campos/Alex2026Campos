@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=plastic&logo=visualstudiocode&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visualstudio&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
 
 ### 📚 Studying Languages In University . . .
-<img src="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white">
 
 <p align="center">
 <img src="https://i.pinimg.com/originals/d2/b6/88/d2b688357b0c20cebde3745a3043108d.gif" width="100px" height="100px"/>
