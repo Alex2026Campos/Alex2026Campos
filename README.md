@@ -5,8 +5,8 @@
 </a>
 
 <p align="left"> 
-     Hi! I'm a 18y brazilian developer from SP. I enjoy games and developing them. I'm also a big fan of technology in general. <br>
-     Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>.
+    <samp> Hi! I'm a 18y brazilian developer from SP. I enjoy games and developing them. I'm also a big fan of technology in general. <br>
+     Currently, i am studying computer science in <strong>UNIP</strong> (Universidade Paulista). I studied digital game development and high school at <strong>Etec Prof. Basilides de Godoy</strong>. </samp>
 <br>
 
 ### 🖥️ Studying Tools and Technologies In University . . .
@@ -23,6 +23,6 @@
 
 <p align="center">
 <a href="https://github.com/Alex2024Camposw">
-  <---- Personnel Account ---->
+  <samp> <---- Personnel Account ----> </samp>
 </a>
 </p>
